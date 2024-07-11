@@ -66,12 +66,14 @@ a:hover{
     color: #ffffff;
     cursor: pointer;
 }
-.large-button {
-    padding: 20px 70px;
-    font-size: 35px;
-    border-radius: 10px;
-    border: 2px solid black;
-    background-color: white;
+.large button {
+    font-size: 4rem;
+    padding: 1rem;
+    background: white;
+    border-radius: 2px;
+    color: #f0f0f0;
+    cursor: pointer;
+    
 }
 .sidebar{
     position: fixed;
