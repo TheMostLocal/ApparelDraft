@@ -6,8 +6,8 @@ body {
     font: 1.6rem Helvetica;
     height: 100vh;
     margin: 0;
-    background-image: image url("images/GoodGlobeLogo.jpg");
-    background-color: #cccccc;
+    background-image: url("images/GoodGlobeLogo.jpg");
+    background-color: white;
 }
 .grid-container{
     display: grid;
