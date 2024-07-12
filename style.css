@@ -6,6 +6,8 @@ body {
     font: 1.6rem Helvetica;
     height: 100vh;
     margin: 0;
+}
+main {
     background-image: url("images/GoodGlobeLogo.jpg") ;
     background-color: white;
     background-position: center; /* Center the image */
