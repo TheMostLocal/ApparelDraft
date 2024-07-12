@@ -6,9 +6,7 @@ body {
     font: 1.6rem Helvetica;
     height: 100vh;
     margin: 0;
-    background-image: url("images/GoodGlobeLogo.jpg") ;
-    background-color: white;
-    background-position: center top; /* Center the image */
+    background: content-box radial-gradient(url("images/GoodGlobeLogo.jpg");
 }
 .grid-container{
     display: grid;
